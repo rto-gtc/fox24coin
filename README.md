@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FOX24Coin
 Official documentation and resources for FOX24Coin.
 
@@ -16,3 +17,7 @@ Official documentation and resources for FOX24Coin.
 
 ## Website
 https://fox24coin.com
+=======
+# fox24coin
+Official documentation and resources for FOX24Coin (FOX24) – ERC-20 token on Ethereum and Base networks.
+>>>>>>> ca708c4863f2c318c002d7aefdc59b9e1f76ad73
